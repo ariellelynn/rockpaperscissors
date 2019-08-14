@@ -9,7 +9,6 @@
 
 The goal is to write the logic to make the game work. Currently the computer always chooses `rock` and a winner is unknown.
 
-![current](./assets/current.png) 
 
 ## Stretch Goals
 
